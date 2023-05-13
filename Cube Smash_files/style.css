@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #dbd7d2;
+	color: #48067;
+	font-family: Verdana;
+	align: center;
+}
+
+canvas {
+	position: absolute;
+}
+
+.hud {
+	position: absolute;
+	margin-left: 1em;
+}
+
+.hit {
+	font-weight: bold;
+	color: red;
+}
